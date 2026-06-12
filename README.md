@@ -63,9 +63,10 @@ The objective of this project is to build a machine learning model that can accu
 
    ### Outcome
 
-<img width="592" height="138" alt="image" src="https://github.com/user-attachments/assets/1225a1ee-6dff-49f4-835a-0f3515857c93" />
-<img width="546" height="180" alt="image" src="https://github.com/user-attachments/assets/e2bec6bf-1a75-492a-89c2-3ea284ab439f" />
-<img width="710" height="408" alt="image" src="https://github.com/user-attachments/assets/381b48bf-bfd9-42ef-a3de-6d367d389896" />
+<img width="786" height="156" alt="image" src="https://github.com/user-attachments/assets/aea14f67-1a3b-42e4-9f2c-94e096f26e08" />
+<img width="472" height="107" alt="image" src="https://github.com/user-attachments/assets/7b61d15e-79b3-4a4d-a4e8-f3d06d12d99c" />
+<img width="816" height="576" alt="image" src="https://github.com/user-attachments/assets/cc0e46e4-19d0-4134-87ae-186d137fbaac" />
+
 
   + The Linear Regression model was successfully implemented to predict house prices based on various features.The model's performance was evaluted using Mean Squared Error (MSE) and R^2 score
   + The Mean Squared Error(MSE) obtained is 175,431,868,730,703,which indicates the average squared difference between the actual and predicted house prices. The relatively high value suggests that there is some deviation between predicted and the actual values,which is commom in datasets with large price ranges.
