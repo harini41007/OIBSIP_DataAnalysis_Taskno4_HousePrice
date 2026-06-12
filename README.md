@@ -26,31 +26,41 @@ The objective of this project is to build a machine learning model that can accu
      + Pandas -> data handling
      + NumPy -> numerical computations
      + Seaborn & Matplotlib-> visualization
+  
   2.Load Dataset
      + Loaded the dataset using 'pandas.read_csv()'
+  
   3.Data Exploration
      + Checked missing values using 'df.isnill().sum()'
      + Checked duplicate rows and removed them if present
      + Viewed dataset information using'df.info()'
-  4.Data Preprocessing
+
+   4.Data Preprocessing
      + Identified categorical columns (yes/no,furnishing status)
      + Converted categorical data into  umerical format using 'pd.get_dummies()'
-  5.Feature selection
+
+   5.Feature selection
      + X(Features) - all columns except 'price'
      + y(Target)- 'price' column
-  6.Train-Test Split
+
+   6.Train-Test Split
      + Split data into training(80%)and testing(20%)
-  7.Model Training
+
+   7.Model Training
      + USed Linear Regression model to train model using training data
+  
   8.Prediction
      + Predicted house price using the test data
-  9.Model Evaluation
+
+   9.Model Evaluation
      + Mean Square Error (MSE) - measure prediction error
      + R^2 Score - measures model performance
-  10.Visualization
+
+   10.Visualization
      + Plotted graph between actual prices (y_test)and prices (predictions)
      + Used scatter plot for comparison
-  ### Outcome
+
+   ### Outcome
 
 <img width="592" height="138" alt="image" src="https://github.com/user-attachments/assets/1225a1ee-6dff-49f4-835a-0f3515857c93" />
 <img width="546" height="180" alt="image" src="https://github.com/user-attachments/assets/e2bec6bf-1a75-492a-89c2-3ea284ab439f" />
