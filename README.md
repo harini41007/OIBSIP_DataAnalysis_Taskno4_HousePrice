@@ -2,7 +2,8 @@
 ### Objective 
 The objective of this project is to build a machine learning model that can accurately predict house prices based on various features such as area,number of bedrooms,bathrooms,number of stories,parking availability,and other property-related attributess.The project focuses on understanding th relationship between different housing features and the price of a property.Data preprocessing techniques are applied to handle missing values,remove duplicates,and convert categorical features(such as mainroad,guestroom,furnishing status,etc.) into numerical format using encoding methods.Overall,the goal is to develop a reliable model that can assist in estimating property prices based on key features,which can be buyers,sellers,and real estate analysis
 ### sample Dataset
-<img width="771" height="262" alt="image" src="https://github.com/user-attachments/assets/90f2fc27-3e3c-4717-b014-803db4b45aa2" />
+<img width="1113" height="366" alt="image" src="https://github.com/user-attachments/assets/d0e7e5b3-21af-40f5-a5b7-c90f7d6df35a" />
+
 
 ### Dataset Overview
 + The dataset contains information about different houses and their features.
