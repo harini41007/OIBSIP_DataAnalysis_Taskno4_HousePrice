@@ -69,7 +69,7 @@ The objective of this project is to build a machine learning model that can accu
 
 
   + The Linear Regression model was successfully implemented to predict house prices based on various features.The model's performance was evaluted using Mean Squared Error (MSE) and R^2 score
-  + The Mean Squared Error(MSE) obtained is 175,431,868,730,703,which indicates the average squared difference between the actual and predicted house prices. The relatively high value suggests that there is some deviation between predicted and the actual values,which is commom in datasets with large price ranges.
+  + The Mean Squared Error(MSE) obtained is 1754318687330.6638,which indicates the average squared difference between the actual and predicted house prices. The relatively high value suggests that there is some deviation between predicted and the actual values,which is commom in datasets with large price ranges.
   + The R^2 score achieved is 0.6529,which means that approximately 65.29% of the variation in house prices is explained by the model.This indicates that the model has a moderate level of accuracy and is able to capture the relationship between features and target variable reasonably well.
   + The scatters plot of Actual vs Predicted House Price shows a positive trend,where most points follow a diagonal pattern.This indicates that the model predictions are fairly aligned with actual values,although some deviations are present.
   + Overall, the model performs reasonably well but can be furthur improved by using advanced models or additional feature engineering to enhance prediction accuracy.
